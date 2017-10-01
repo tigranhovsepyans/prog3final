@@ -1,0 +1,2314 @@
+{
+    "universities": [
+        {
+            "rank": "1",
+            "title": "Moscow State University",
+            "url": "/reviews/4035.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "2",
+            "title": "National Research University Higher School of Economics",
+            "url": "/reviews/3985.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "3",
+            "title": "St. Petersburg State University",
+            "url": "/reviews/4101.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "4",
+            "title": "ITMO University",
+            "url": "/reviews/11842.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "5",
+            "title": "Tomsk State University",
+            "url": "/reviews/4116.htm",
+            "location": "Tomsk"
+        },
+        {
+            "rank": "6",
+            "title": "Novosibirsk State University",
+            "url": "/reviews/4061.htm",
+            "location": "Novosibirsk"
+        },
+        {
+            "rank": "7",
+            "title": "Kazan Federal University",
+            "url": "/reviews/4005.htm",
+            "location": "Kazan ..."
+        },
+        {
+            "rank": "8",
+            "title": "Peter the Great St.Petersburg Polytechnic University",
+            "url": "/reviews/4100.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "9",
+            "title": "Ural Federal University",
+            "url": "/reviews/4136.htm",
+            "location": "Yekaterinburg"
+        },
+        {
+            "rank": "10",
+            "title": "Moscow Institute of Physics and Technology",
+            "url": "/reviews/4027.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "11",
+            "title": "Tomsk Polytechnic University",
+            "url": "/reviews/4115.htm",
+            "location": "Tomsk"
+        },
+        {
+            "rank": "12",
+            "title": "Siberian Federal University",
+            "url": "/reviews/4011.htm",
+            "location": "Krasnoyarsk"
+        },
+        {
+            "rank": "13",
+            "title": "Russian Presidential Academy of National Economy and Public Administration",
+            "url": "/reviews/9539.htm",
+            "location": "Volgograd"
+        },
+        {
+            "rank": "14",
+            "title": "Peoples' Friendship University of Russia",
+            "url": "/reviews/4067.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "15",
+            "title": "Far Eastern Federal University",
+            "url": "/reviews/3981.htm",
+            "location": "Vladivostok ..."
+        },
+        {
+            "rank": "16",
+            "title": "National Research Nuclear University MEPI",
+            "url": "/reviews/11804.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "17",
+            "title": "Bauman Moscow State Technical University",
+            "url": "/reviews/3966.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "18",
+            "title": "Southern Federal University",
+            "url": "/reviews/4074.htm",
+            "location": "Rostov-on-Don ..."
+        },
+        {
+            "rank": "19",
+            "title": "Moscow State Institute of International Relations",
+            "url": "/reviews/4033.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "20",
+            "title": "South Ural State University",
+            "url": "/reviews/4094.htm",
+            "location": "Chelyabinsk"
+        },
+        {
+            "rank": "21",
+            "title": "Moscow State Pedagogical University",
+            "url": "/reviews/11805.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "22",
+            "title": "Lobachevsky State University of Nizhni Novgorod",
+            "url": "/reviews/4054.htm",
+            "location": "Nizhny Novgorod ..."
+        },
+        {
+            "rank": "23",
+            "title": "Ulyanovsk State Technical University",
+            "url": "/reviews/4128.htm",
+            "location": "Ulyanovsk"
+        },
+        {
+            "rank": "24",
+            "title": "Novosibirsk State Technical University",
+            "url": "/reviews/4060.htm",
+            "location": "Novosibirsk"
+        },
+        {
+            "rank": "25",
+            "title": "Finance Academy under the Government of the Russian Federation",
+            "url": "/reviews/3982.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "26",
+            "title": "Belgorod State University",
+            "url": "/reviews/10871.htm",
+            "location": "Belgorod"
+        },
+        {
+            "rank": "27",
+            "title": "Ogarev Mordovia State University",
+            "url": "/reviews/4025.htm",
+            "location": "Saransk ..."
+        },
+        {
+            "rank": "28",
+            "title": "Russian State University of Oil and Gas",
+            "url": "/reviews/7649.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "29",
+            "title": "Voronezh State University",
+            "url": "/reviews/4152.htm",
+            "location": "Voronezh ..."
+        },
+        {
+            "rank": "30",
+            "title": "Chernyshevsky Saratov State University",
+            "url": "/reviews/4087.htm",
+            "location": "Saratov"
+        },
+        {
+            "rank": "31",
+            "title": "North-Eastern Federal University",
+            "url": "/reviews/4154.htm",
+            "location": "Yakutsk"
+        },
+        {
+            "rank": "32",
+            "title": "Northern (Arctic) Federal University",
+            "url": "/reviews/3959.htm",
+            "location": "Arkhangelsk ..."
+        },
+        {
+            "rank": "33",
+            "title": "Russian State University for the Humanities",
+            "url": "/reviews/4076.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "34",
+            "title": "Altai State University",
+            "url": "/reviews/3957.htm",
+            "location": "Barnaul"
+        },
+        {
+            "rank": "35",
+            "title": "Moscow Aviation Institute",
+            "url": "/reviews/11790.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "36",
+            "title": "Moscow State Regional University",
+            "url": "/reviews/11796.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "37",
+            "title": "Plekhanov Russian University of Economics",
+            "url": "/reviews/4071.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "38",
+            "title": "Vladivostok State University of Economics and Service",
+            "url": "/reviews/4140.htm",
+            "location": "Vladivostok ..."
+        },
+        {
+            "rank": "39",
+            "title": "Tomsk State Pedagogical University",
+            "url": "/reviews/11851.htm",
+            "location": "Tomsk"
+        },
+        {
+            "rank": "40",
+            "title": "Petrozavodsk State University",
+            "url": "/reviews/4070.htm",
+            "location": "Petrozavodsk ..."
+        },
+        {
+            "rank": "41",
+            "title": "Udmurt State University",
+            "url": "/reviews/4123.htm",
+            "location": "Izhevsk ..."
+        },
+        {
+            "rank": "42",
+            "title": "St. Petersburg State University of Economics",
+            "url": "/reviews/4103.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "43",
+            "title": "Samara State Aerospace University",
+            "url": "/reviews/4080.htm",
+            "location": "Samara"
+        },
+        {
+            "rank": "44",
+            "title": "St. Petersburg State University of Industrial Technologies and Design",
+            "url": "/reviews/4105.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "45",
+            "title": "Perm State University",
+            "url": "/reviews/4069.htm",
+            "location": "Perm"
+        },
+        {
+            "rank": "46",
+            "title": "Tomsk State University of Control Systems and Radioelectronics",
+            "url": "/reviews/4117.htm",
+            "location": "Tomsk"
+        },
+        {
+            "rank": "47",
+            "title": "National University of Science and Technology \"MISIS\"",
+            "url": "/reviews/12312.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "48",
+            "title": "Moscow Technical University (MIREA)",
+            "url": "/reviews/11793.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "49",
+            "title": "Perm State Technical University",
+            "url": "/reviews/4068.htm",
+            "location": "Perm ..."
+        },
+        {
+            "rank": "50",
+            "title": "Kuban State University",
+            "url": "/reviews/4012.htm",
+            "location": "Krasnodar"
+        },
+        {
+            "rank": "51",
+            "title": "Don State Technical University",
+            "url": "/reviews/3975.htm",
+            "location": "Rostov-on-Don ..."
+        },
+        {
+            "rank": "52",
+            "title": "Kazan State Technical University",
+            "url": "/reviews/10924.htm",
+            "location": "Kazan"
+        },
+        {
+            "rank": "53",
+            "title": "Moscow Polytech",
+            "url": "/reviews/11797.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "54",
+            "title": "Russian New University",
+            "url": "/reviews/11809.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "55",
+            "title": "Kemerovo State University",
+            "url": "/reviews/4007.htm",
+            "location": "Kemerovo ..."
+        },
+        {
+            "rank": "56",
+            "title": "Irkutsk State University",
+            "url": "/reviews/3994.htm",
+            "location": "Irkutsk"
+        },
+        {
+            "rank": "57",
+            "title": "Chelyabinsk State University",
+            "url": "/reviews/3971.htm",
+            "location": "Chelyabinsk"
+        },
+        {
+            "rank": "58",
+            "title": "Moscow Tchaikovsky Conservatory",
+            "url": "/reviews/9686.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "59",
+            "title": "Pacific National University",
+            "url": "/reviews/10896.htm",
+            "location": "Khabarovsk"
+        },
+        {
+            "rank": "60",
+            "title": "Tyumen State University",
+            "url": "/reviews/4122.htm",
+            "location": "Tyumen ..."
+        },
+        {
+            "rank": "61",
+            "title": "Syktyvkar State University",
+            "url": "/reviews/4112.htm",
+            "location": "Syktyvkar ..."
+        },
+        {
+            "rank": "62",
+            "title": "National Research University Moscow Power Engineering Institute",
+            "url": "/reviews/4029.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "63",
+            "title": "National Research Irkutsk State Technical University",
+            "url": "/reviews/3993.htm",
+            "location": "Irkutsk"
+        },
+        {
+            "rank": "64",
+            "title": "The State University of Management",
+            "url": "/reviews/4108.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "65",
+            "title": "North Caucasus Federal University",
+            "url": "/reviews/4109.htm",
+            "location": "Stavropol"
+        },
+        {
+            "rank": "66",
+            "title": "Ulyanovsk State University",
+            "url": "/reviews/4129.htm",
+            "location": "Ulyanovsk"
+        },
+        {
+            "rank": "67",
+            "title": "Moscow State University of Civil Engineering",
+            "url": "/reviews/4036.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "68",
+            "title": "Pyatigorsk State Linguistic University",
+            "url": "/reviews/9416.htm",
+            "location": "Pyatigorsk"
+        },
+        {
+            "rank": "69",
+            "title": "Bashkir State University",
+            "url": "/reviews/3965.htm",
+            "location": "Ufa"
+        },
+        {
+            "rank": "70",
+            "title": "Tyumen Industrial University",
+            "url": "/reviews/11854.htm",
+            "location": "Tyumen"
+        },
+        {
+            "rank": "71",
+            "title": "Moscow State University of Technology and Management",
+            "url": "/reviews/11801.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "72",
+            "title": "Volgograd State University",
+            "url": "/reviews/4144.htm",
+            "location": "Volgograd ..."
+        },
+        {
+            "rank": "73",
+            "title": "Tambov State Technical University",
+            "url": "/reviews/4114.htm",
+            "location": "Tambov"
+        },
+        {
+            "rank": "74",
+            "title": "Orenburg State University",
+            "url": "/reviews/4065.htm",
+            "location": "Orenburg"
+        },
+        {
+            "rank": "75",
+            "title": "Saint Petersburg State Electrotechnical University",
+            "url": "/reviews/4095.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "76",
+            "title": "Gaidar Institute for Economic Policy",
+            "url": "/reviews/3986.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "77",
+            "title": "Russian State Social University",
+            "url": "/reviews/10946.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "78",
+            "title": "Moscow City Teachers' Training University",
+            "url": "/reviews/9685.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "79",
+            "title": "Yaroslavl State University",
+            "url": "/reviews/4158.htm",
+            "location": "Yaroslavl"
+        },
+        {
+            "rank": "80",
+            "title": "Astrakhan State University",
+            "url": "/reviews/10865.htm",
+            "location": "Astrakhan"
+        },
+        {
+            "rank": "81",
+            "title": "Saint Petersburg State Pediatric Medical Academy",
+            "url": "/reviews/9533.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "82",
+            "title": "Stavropol State Agrarian University",
+            "url": "/reviews/10917.htm",
+            "location": "Stavropol"
+        },
+        {
+            "rank": "83",
+            "title": "Russian State Agricultural University",
+            "url": "/reviews/11806.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "84",
+            "title": "Ural State University of Economics",
+            "url": "/reviews/4137.htm",
+            "location": "Yekaterinburg"
+        },
+        {
+            "rank": "85",
+            "title": "Russian State University of Physical Culture, Sport and Tourism",
+            "url": "/reviews/11808.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "86",
+            "title": "Volgograd State Technical University",
+            "url": "/reviews/4143.htm",
+            "location": "Volgograd"
+        },
+        {
+            "rank": "87",
+            "title": "Immanuel Kant Baltic Federal University",
+            "url": "/reviews/4003.htm",
+            "location": "Kaliningrad"
+        },
+        {
+            "rank": "88",
+            "title": "Volgograd State Pedagogical University",
+            "url": "/reviews/4142.htm",
+            "location": "Volgograd ..."
+        },
+        {
+            "rank": "89",
+            "title": "Vladimir State University",
+            "url": "/reviews/4139.htm",
+            "location": "Vladimir"
+        },
+        {
+            "rank": "90",
+            "title": "Omsk State Technical University",
+            "url": "/reviews/10961.htm",
+            "location": "Omsk"
+        },
+        {
+            "rank": "91",
+            "title": "Buryat State University",
+            "url": "/reviews/10882.htm",
+            "location": "Ulan-Ude"
+        },
+        {
+            "rank": "92",
+            "title": "Siberian State Aerospace University",
+            "url": "/reviews/11780.htm",
+            "location": "Krasnoyarsk ..."
+        },
+        {
+            "rank": "93",
+            "title": "Samara State Technical University",
+            "url": "/reviews/4081.htm",
+            "location": "Samara"
+        },
+        {
+            "rank": "94",
+            "title": "Saratov State Technical University",
+            "url": "/reviews/4086.htm",
+            "location": "Saratov"
+        },
+        {
+            "rank": "95",
+            "title": "Voronezh State Technical University",
+            "url": "/reviews/4151.htm",
+            "location": "Voronezh ..."
+        },
+        {
+            "rank": "96",
+            "title": "Moscow Institute of Electronic Technology",
+            "url": "/reviews/9414.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "97",
+            "title": "Novosibirsk State Pedagogical University",
+            "url": "/reviews/11817.htm",
+            "location": "Novosibirsk"
+        },
+        {
+            "rank": "98",
+            "title": "Synergy University",
+            "url": "/reviews/10953.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "99",
+            "title": "The Bonch-Bruevich St. Petersburg State University of Telecommunications",
+            "url": "/reviews/4106.htm",
+            "location": "Saint Petersburg ..."
+        },
+        {
+            "rank": "100",
+            "title": "Togliatti State University",
+            "url": "/reviews/11849.htm",
+            "location": "Togliatti"
+        },
+        {
+            "rank": "101",
+            "title": "Ufa State Petroleum Technological University",
+            "url": "/reviews/4126.htm",
+            "location": "Ufa ..."
+        },
+        {
+            "rank": "102",
+            "title": "Russian National Research Medical University",
+            "url": "/reviews/11865.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "103",
+            "title": "Moscow Medical Academy",
+            "url": "/reviews/9536.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "104",
+            "title": "Ivanovo State Power University",
+            "url": "/reviews/7212.htm",
+            "location": "Ivanovo"
+        },
+        {
+            "rank": "105",
+            "title": "Novgorod State University",
+            "url": "/reviews/4057.htm",
+            "location": "Veliky Novgorod"
+        },
+        {
+            "rank": "106",
+            "title": "Polzunov Altai State Technical University",
+            "url": "/reviews/3956.htm",
+            "location": "Barnaul ..."
+        },
+        {
+            "rank": "107",
+            "title": "Samara State Academy of Social Sciences and Humanities",
+            "url": "/reviews/4083.htm",
+            "location": "Samara"
+        },
+        {
+            "rank": "108",
+            "title": "Moscow State University of Printing Arts",
+            "url": "/reviews/10949.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "109",
+            "title": "Krasnoyarsk State Pedagogical University",
+            "url": "/reviews/11779.htm",
+            "location": "Krasnoyarsk"
+        },
+        {
+            "rank": "110",
+            "title": "Kemerovo State University of Culture and the Arts",
+            "url": "/reviews/11774.htm",
+            "location": "Kemerovo"
+        },
+        {
+            "rank": "111",
+            "title": "European University at St. Petersburg",
+            "url": "/reviews/3979.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "112",
+            "title": "New Economic School",
+            "url": "/reviews/4050.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "113",
+            "title": "Kabardino-Balkarian State University",
+            "url": "/reviews/4001.htm",
+            "location": "Nalchik"
+        },
+        {
+            "rank": "114",
+            "title": "Penza State University",
+            "url": "/reviews/11822.htm",
+            "location": "Penza"
+        },
+        {
+            "rank": "115",
+            "title": "Mendeleev University of Chemical Technology of Russia",
+            "url": "/reviews/4023.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "116",
+            "title": "Altai State Pedagogical Academy",
+            "url": "/reviews/10868.htm",
+            "location": "Barnaul"
+        },
+        {
+            "rank": "117",
+            "title": "International University of Nature, Society and Man \"Dubna\"",
+            "url": "/reviews/3976.htm",
+            "location": "Dubna"
+        },
+        {
+            "rank": "118",
+            "title": "Moscow Automobile and Road Construction State Technical University",
+            "url": "/reviews/4031.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "119",
+            "title": "Moscow State Forest University",
+            "url": "/reviews/4041.htm",
+            "location": "Mytishchi"
+        },
+        {
+            "rank": "120",
+            "title": "Modern University for the Humanities",
+            "url": "/reviews/4024.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "121",
+            "title": "North-Western State Medical University",
+            "url": "/reviews/4107.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "122",
+            "title": "Moscow State University of Railway Engineering",
+            "url": "/reviews/4042.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "123",
+            "title": "Saint Tikhon's Orthodox University",
+            "url": "/reviews/9687.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "124",
+            "title": "National Mineral Resources University",
+            "url": "/reviews/4099.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "125",
+            "title": "Moscow State Linguistic University",
+            "url": "/reviews/11795.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "126",
+            "title": "Tver State University",
+            "url": "/reviews/4120.htm",
+            "location": "Tver"
+        },
+        {
+            "rank": "127",
+            "title": "Belgorod State Technological University",
+            "url": "/reviews/11756.htm",
+            "location": "Belgorod"
+        },
+        {
+            "rank": "128",
+            "title": "Ukhta State Technical University",
+            "url": "/reviews/4127.htm",
+            "location": "Ukhta"
+        },
+        {
+            "rank": "129",
+            "title": "Moscow State University of Psychology and Education",
+            "url": "/reviews/9608.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "130",
+            "title": "Siberian State University of Telecommunications and Informatics",
+            "url": "/reviews/4091.htm",
+            "location": "Novosibirsk"
+        },
+        {
+            "rank": "131",
+            "title": "Russian State Hydrometeorological University",
+            "url": "/reviews/4075.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "132",
+            "title": "Ural State Pedagogical University",
+            "url": "/reviews/11766.htm",
+            "location": "Yekaterinburg ..."
+        },
+        {
+            "rank": "133",
+            "title": "Mari State University",
+            "url": "/reviews/10939.htm",
+            "location": "Yoshkar-Ola"
+        },
+        {
+            "rank": "134",
+            "title": "Kurgan State University",
+            "url": "/reviews/10933.htm",
+            "location": "Kurgan"
+        },
+        {
+            "rank": "135",
+            "title": "St. Petersburg State University of Architecture and Civil Engineering",
+            "url": "/reviews/11838.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "136",
+            "title": "St. Petersburg State University of Aerospace Instrumentation",
+            "url": "/reviews/4102.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "137",
+            "title": "Moscow State Technological University \"Stankin\"",
+            "url": "/reviews/4043.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "138",
+            "title": "Ryazan State University",
+            "url": "/reviews/9541.htm",
+            "location": "Ryazan"
+        },
+        {
+            "rank": "139",
+            "title": "Russian State Geological Prospecting University",
+            "url": "/reviews/11792.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "140",
+            "title": "Ufa State Aviation Technical University",
+            "url": "/reviews/4124.htm",
+            "location": "Ufa"
+        },
+        {
+            "rank": "141",
+            "title": "Izhevsk State Technical University",
+            "url": "/reviews/7650.htm",
+            "location": "Izhevsk ..."
+        },
+        {
+            "rank": "142",
+            "title": "Omsk State Pedagogical University",
+            "url": "/reviews/4063.htm",
+            "location": "Omsk"
+        },
+        {
+            "rank": "143",
+            "title": "Siberian State Transport University",
+            "url": "/reviews/4090.htm",
+            "location": "Novosibirsk"
+        },
+        {
+            "rank": "144",
+            "title": "St. Petersburg State University for Culture and Arts",
+            "url": "/reviews/11843.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "145",
+            "title": "Chuvash State University",
+            "url": "/reviews/3973.htm",
+            "location": "Cheboksary"
+        },
+        {
+            "rank": "146",
+            "title": "Belgorod State Agricultural University",
+            "url": "/reviews/9410.htm",
+            "location": "Belgorod"
+        },
+        {
+            "rank": "147",
+            "title": "Orel State University",
+            "url": "/reviews/10966.htm",
+            "location": "Orel"
+        },
+        {
+            "rank": "148",
+            "title": "Astrakhan State Technical University",
+            "url": "/reviews/10866.htm",
+            "location": "Astrakhan"
+        },
+        {
+            "rank": "149",
+            "title": "Volga State University of Technology",
+            "url": "/reviews/4020.htm",
+            "location": "Yoshkar-Ola"
+        },
+        {
+            "rank": "150",
+            "title": "St. Petersburg State Conservatory",
+            "url": "/reviews/16370.htm",
+            "location": "St. Petersburg"
+        },
+        {
+            "rank": "151",
+            "title": "Moscow State Humanitarian University",
+            "url": "/reviews/4026.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "152",
+            "title": "Omsk State University",
+            "url": "/reviews/4064.htm",
+            "location": "Omsk"
+        },
+        {
+            "rank": "153",
+            "title": "Siberian State Medical University",
+            "url": "/reviews/4089.htm",
+            "location": "Tomsk"
+        },
+        {
+            "rank": "154",
+            "title": "Volgograd State Medical Academy",
+            "url": "/reviews/4141.htm",
+            "location": "Volgograd"
+        },
+        {
+            "rank": "155",
+            "title": "Herzen State Pedagogical University of Russia",
+            "url": "/reviews/3984.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "156",
+            "title": "Gorno-Altaisk State University",
+            "url": "/reviews/3983.htm",
+            "location": "Gorno-Altaisk"
+        },
+        {
+            "rank": "157",
+            "title": "Voronezh State Pedagogical University",
+            "url": "/reviews/4150.htm",
+            "location": "Voronezh"
+        },
+        {
+            "rank": "158",
+            "title": "Vyatka State University",
+            "url": "/reviews/11775.htm",
+            "location": "Kirov"
+        },
+        {
+            "rank": "159",
+            "title": "Moscow State University of Geodesy and Cartography",
+            "url": "/reviews/11798.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "160",
+            "title": "Amur State University",
+            "url": "/reviews/3958.htm",
+            "location": "Blagoveshchensk"
+        },
+        {
+            "rank": "161",
+            "title": "Dagestan State University",
+            "url": "/reviews/3974.htm",
+            "location": "Makhachkala"
+        },
+        {
+            "rank": "162",
+            "title": "Novosibirsk State University of Economics and Management",
+            "url": "/reviews/4058.htm",
+            "location": "Novosibirsk"
+        },
+        {
+            "rank": "163",
+            "title": "Ural State University of Physical Culture",
+            "url": "/reviews/11859.htm",
+            "location": "Chelyabinsk"
+        },
+        {
+            "rank": "164",
+            "title": "Yaroslavl State Pedagogical University",
+            "url": "/reviews/4156.htm",
+            "location": "Yaroslavl"
+        },
+        {
+            "rank": "165",
+            "title": "Murmansk State Technical University",
+            "url": "/reviews/4046.htm",
+            "location": "Murmansk"
+        },
+        {
+            "rank": "166",
+            "title": "Moscow Technical University of Communications and Informatics",
+            "url": "/reviews/4044.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "167",
+            "title": "Saratov State Medical University",
+            "url": "/reviews/4084.htm",
+            "location": "Saratov"
+        },
+        {
+            "rank": "168",
+            "title": "Nizhny Novgorod State Technical University",
+            "url": "/reviews/4053.htm",
+            "location": "Nizhny Novgorod"
+        },
+        {
+            "rank": "169",
+            "title": "Ivanovo State University",
+            "url": "/reviews/7214.htm",
+            "location": "Ivanovo"
+        },
+        {
+            "rank": "170",
+            "title": "Kazan State University of Architecture and Engineering",
+            "url": "/reviews/11770.htm",
+            "location": "Kazan"
+        },
+        {
+            "rank": "171",
+            "title": "Dagestan State Agrarian University",
+            "url": "/reviews/10885.htm",
+            "location": "Makhachkala"
+        },
+        {
+            "rank": "172",
+            "title": "Saratov State Socio-Economic University",
+            "url": "/reviews/4085.htm",
+            "location": "Saratov"
+        },
+        {
+            "rank": "173",
+            "title": "Kuban State University of Technology",
+            "url": "/reviews/4014.htm",
+            "location": "Krasnodar"
+        },
+        {
+            "rank": "174",
+            "title": "Ivanovo State University of Chemistry and Technology",
+            "url": "/reviews/7215.htm",
+            "location": "Ivanovo"
+        },
+        {
+            "rank": "175",
+            "title": "Kazan State Technological University",
+            "url": "/reviews/13882.htm",
+            "location": "Kazan"
+        },
+        {
+            "rank": "176",
+            "title": "Perm State Pedagogical University",
+            "url": "/reviews/11824.htm",
+            "location": "Perm"
+        },
+        {
+            "rank": "177",
+            "title": "Moscow University for the Humanities",
+            "url": "/reviews/11803.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "178",
+            "title": "Moscow International Higher Business School",
+            "url": "/reviews/4028.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "179",
+            "title": "M. Akmullah Bashkir State Pedagogical University",
+            "url": "/reviews/11856.htm",
+            "location": "Ufa"
+        },
+        {
+            "rank": "180",
+            "title": "Ural State Law Academy",
+            "url": "/reviews/4131.htm",
+            "location": "Yekaterinburg"
+        },
+        {
+            "rank": "181",
+            "title": "Maritime State University",
+            "url": "/reviews/10940.htm",
+            "location": "Vladivostok"
+        },
+        {
+            "rank": "182",
+            "title": "Magnitogorsk State Technical University",
+            "url": "/reviews/10937.htm",
+            "location": "Magnitogorsk"
+        },
+        {
+            "rank": "183",
+            "title": "Ural State University of Railway Transport",
+            "url": "/reviews/4133.htm",
+            "location": "Yekaterinburg"
+        },
+        {
+            "rank": "184",
+            "title": "South-Western State University",
+            "url": "/reviews/9903.htm",
+            "location": "Kursk"
+        },
+        {
+            "rank": "185",
+            "title": "Kuban State Agricultural University",
+            "url": "/reviews/4013.htm",
+            "location": "Krasnodar"
+        },
+        {
+            "rank": "186",
+            "title": "Nizhny Novgorod State Medical Academy",
+            "url": "/reviews/4051.htm",
+            "location": "Nizhny Novgorod"
+        },
+        {
+            "rank": "187",
+            "title": "Nizhny Novgorod State University of Architecture and Civil Engineering",
+            "url": "/reviews/4052.htm",
+            "location": "Nizhny Novgorod"
+        },
+        {
+            "rank": "188",
+            "title": "Kuzbass State Technical University",
+            "url": "/reviews/4017.htm",
+            "location": "Kemerovo"
+        },
+        {
+            "rank": "189",
+            "title": "Voronezh State Agricultural University",
+            "url": "/reviews/4148.htm",
+            "location": "Voronezh"
+        },
+        {
+            "rank": "190",
+            "title": "Rostov State Economic University",
+            "url": "/reviews/11831.htm",
+            "location": "Rostov-on-Don ..."
+        },
+        {
+            "rank": "191",
+            "title": "Baltic State Technical University \"Voenmeh\"",
+            "url": "/reviews/10867.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "192",
+            "title": "Krasnoyarsk State Medical University",
+            "url": "/reviews/10929.htm",
+            "location": "Krasnoyarsk"
+        },
+        {
+            "rank": "193",
+            "title": "Pushkin State Russian Language Institute",
+            "url": "/reviews/9415.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "194",
+            "title": "Pavlov First Saint Petersburg State Medical University",
+            "url": "/reviews/4097.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "195",
+            "title": "Novosibirsk State Agricultural University",
+            "url": "/reviews/4059.htm",
+            "location": "Novosibirsk"
+        },
+        {
+            "rank": "196",
+            "title": "Moscow State Technical University of Civil Aviation",
+            "url": "/reviews/4034.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "197",
+            "title": "Ugra State University",
+            "url": "/reviews/11858.htm",
+            "location": "Khanty-Mansiysk"
+        },
+        {
+            "rank": "198",
+            "title": "Pskov State Pedagogical University",
+            "url": "/reviews/11827.htm",
+            "location": "Pskov"
+        },
+        {
+            "rank": "199",
+            "title": "Omsk State Agrarian University n.a. P. A. Stolypin",
+            "url": "/reviews/4062.htm",
+            "location": "Omsk"
+        },
+        {
+            "rank": "200",
+            "title": "Chelyabinsk State Pedagogical University",
+            "url": "/reviews/3970.htm",
+            "location": "Chelyabinsk"
+        },
+        {
+            "rank": "201",
+            "title": "Russian State University of Tourism and Services",
+            "url": "/reviews/11861.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "202",
+            "title": "Samara State Economic University",
+            "url": "/reviews/11836.htm",
+            "location": "Samara"
+        },
+        {
+            "rank": "203",
+            "title": "Volga State University of Telecommunications and Informatics",
+            "url": "/reviews/11834.htm",
+            "location": "Samara"
+        },
+        {
+            "rank": "204",
+            "title": "International Independent Ecological-Political University",
+            "url": "/reviews/11789.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "205",
+            "title": "Kaliningrad State Technical University",
+            "url": "/reviews/4002.htm",
+            "location": "Kaliningrad"
+        },
+        {
+            "rank": "206",
+            "title": "Kazan State Power Engineering University",
+            "url": "/reviews/10922.htm",
+            "location": "Kazan"
+        },
+        {
+            "rank": "207",
+            "title": "Leningrad State University",
+            "url": "/reviews/11837.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "208",
+            "title": "Altai State University of Agriculture",
+            "url": "/reviews/10858.htm",
+            "location": "Barnaul"
+        },
+        {
+            "rank": "209",
+            "title": "North State Medical University",
+            "url": "/reviews/10956.htm",
+            "location": "Arkhangelsk"
+        },
+        {
+            "rank": "210",
+            "title": "Tambov State University",
+            "url": "/reviews/11847.htm",
+            "location": "Tambov"
+        },
+        {
+            "rank": "211",
+            "title": "Komsomolsk-on-Amur State Technical University",
+            "url": "/reviews/10928.htm",
+            "location": "Komsomolsk-on-Amur"
+        },
+        {
+            "rank": "212",
+            "title": "Admiral Makarov State University of Maritime and Inland Shipping",
+            "url": "/reviews/11840.htm",
+            "location": "Saint Petersburg ..."
+        },
+        {
+            "rank": "213",
+            "title": "Moscow Institute of Public Administration and Law",
+            "url": "/reviews/9413.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "214",
+            "title": "Tula State Pedagogical University",
+            "url": "/reviews/11852.htm",
+            "location": "Tula"
+        },
+        {
+            "rank": "215",
+            "title": "Far Eastern State Medical University",
+            "url": "/reviews/10894.htm",
+            "location": "Khabarovsk"
+        },
+        {
+            "rank": "216",
+            "title": "Saint-Petersburg State Institute of Film and Television",
+            "url": "/reviews/16368.htm",
+            "location": "St.Petersburg"
+        },
+        {
+            "rank": "217",
+            "title": "Nizhny Novgorod State Pedagogical University",
+            "url": "/reviews/11814.htm",
+            "location": "Nizhny Novgorod"
+        },
+        {
+            "rank": "218",
+            "title": "Tula State University",
+            "url": "/reviews/4118.htm",
+            "location": "Tula"
+        },
+        {
+            "rank": "219",
+            "title": "St. Petersburg State Agrarian University",
+            "url": "/reviews/10915.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "220",
+            "title": "South-Russian State Technical University",
+            "url": "/reviews/11818.htm",
+            "location": "Novocherkassk ..."
+        },
+        {
+            "rank": "221",
+            "title": "Kazan State Medical University",
+            "url": "/reviews/10923.htm",
+            "location": "Kazan ..."
+        },
+        {
+            "rank": "222",
+            "title": "Omsk State Medical Academy",
+            "url": "/reviews/10960.htm",
+            "location": "Omsk"
+        },
+        {
+            "rank": "223",
+            "title": "Far Eastern State Transport University",
+            "url": "/reviews/16380.htm",
+            "location": "Khabarovsk"
+        },
+        {
+            "rank": "224",
+            "title": "Stavropol State Medical University",
+            "url": "/reviews/14806.htm",
+            "location": "Stavropol"
+        },
+        {
+            "rank": "225",
+            "title": "Novosibirsk State Architectural University",
+            "url": "/reviews/11815.htm",
+            "location": "Novosibirsk"
+        },
+        {
+            "rank": "226",
+            "title": "Adyghe State University",
+            "url": "/reviews/3955.htm",
+            "location": "Maykop"
+        },
+        {
+            "rank": "227",
+            "title": "Altai State Medical University",
+            "url": "/reviews/10859.htm",
+            "location": "Barnaul"
+        },
+        {
+            "rank": "228",
+            "title": "Tomsk State University of Architecture and Building",
+            "url": "/reviews/11850.htm",
+            "location": "Tomsk ..."
+        },
+        {
+            "rank": "229",
+            "title": "State University of Land Management",
+            "url": "/reviews/10916.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "230",
+            "title": "Kursk State Medical University",
+            "url": "/reviews/4016.htm",
+            "location": "Kursk"
+        },
+        {
+            "rank": "231",
+            "title": "Linguistic University of Nizhny Novgorod",
+            "url": "/reviews/4018.htm",
+            "location": "Nizhny Novgorod"
+        },
+        {
+            "rank": "232",
+            "title": "Khakas State University",
+            "url": "/reviews/10926.htm",
+            "location": "Abakan"
+        },
+        {
+            "rank": "233",
+            "title": "Siberian State Industrial University",
+            "url": "/reviews/4088.htm",
+            "location": "Novokuznetsk ..."
+        },
+        {
+            "rank": "234",
+            "title": "Khabarovsk State University of Economics and Law",
+            "url": "/reviews/4008.htm",
+            "location": "Khabarovsk ..."
+        },
+        {
+            "rank": "235",
+            "title": "Cherepovets State University",
+            "url": "/reviews/10880.htm",
+            "location": "Cherepovets"
+        },
+        {
+            "rank": "236",
+            "title": "Surgut State University",
+            "url": "/reviews/11846.htm",
+            "location": "Surgut"
+        },
+        {
+            "rank": "237",
+            "title": "Ural State Forestry University",
+            "url": "/reviews/4135.htm",
+            "location": "Yekaterinburg"
+        },
+        {
+            "rank": "238",
+            "title": "Nizhnevartovsk State University",
+            "url": "/reviews/11812.htm",
+            "location": "Nizhnevartovsk"
+        },
+        {
+            "rank": "239",
+            "title": "Bashkir State Agricultural University",
+            "url": "/reviews/10869.htm",
+            "location": "Ufa"
+        },
+        {
+            "rank": "240",
+            "title": "Moscow State University of Food Production",
+            "url": "/reviews/10951.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "241",
+            "title": "Vologda State University",
+            "url": "/reviews/11764.htm",
+            "location": "Vologda"
+        },
+        {
+            "rank": "242",
+            "title": "Novosibirsk State Medical University",
+            "url": "/reviews/11816.htm",
+            "location": "Novosibirsk"
+        },
+        {
+            "rank": "243",
+            "title": "International University in Moscow",
+            "url": "/reviews/10898.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "244",
+            "title": "North Ossetian State University",
+            "url": "/reviews/4055.htm",
+            "location": "Vladikavkaz"
+        },
+        {
+            "rank": "245",
+            "title": "Ryazan State Radio Engineering University",
+            "url": "/reviews/11833.htm",
+            "location": "Ryazan"
+        },
+        {
+            "rank": "246",
+            "title": "Sergei Witte University of Moscow",
+            "url": "/reviews/9412.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "247",
+            "title": "St. Petersburg State Marine Technical University",
+            "url": "/reviews/4096.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "248",
+            "title": "East-Siberian State University of Technology",
+            "url": "/reviews/3978.htm",
+            "location": "Ulan-Ude"
+        },
+        {
+            "rank": "249",
+            "title": "St. Petersburg Academy of Management and Economics",
+            "url": "/reviews/3987.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "250",
+            "title": "Chuvash State Pedagogical University",
+            "url": "/reviews/10884.htm",
+            "location": "Cheboksary"
+        },
+        {
+            "rank": "251",
+            "title": "Kostroma State University",
+            "url": "/reviews/11777.htm",
+            "location": "Kostroma ..."
+        },
+        {
+            "rank": "252",
+            "title": "Saint-Petersburg State Chemical Pharmaceutical Academy",
+            "url": "/reviews/16374.htm",
+            "location": "Saint-Petersburg"
+        },
+        {
+            "rank": "253",
+            "title": "Ural State Mining University",
+            "url": "/reviews/4132.htm",
+            "location": "Yekaterinburg"
+        },
+        {
+            "rank": "254",
+            "title": "Orenburg State Medical University",
+            "url": "/reviews/10964.htm",
+            "location": "Orenburg"
+        },
+        {
+            "rank": "255",
+            "title": "Saratov State Academy of Law",
+            "url": "/reviews/16378.htm",
+            "location": "Saratov"
+        },
+        {
+            "rank": "256",
+            "title": "Kursk State University",
+            "url": "/reviews/11782.htm",
+            "location": "Kursk"
+        },
+        {
+            "rank": "257",
+            "title": "Krasnoyarsk State Agricultural University",
+            "url": "/reviews/10911.htm",
+            "location": "Krasnoyarsk"
+        },
+        {
+            "rank": "258",
+            "title": "Bratsk State University",
+            "url": "/reviews/10872.htm",
+            "location": "Bratsk"
+        },
+        {
+            "rank": "259",
+            "title": "Yaroslavl State Technical University",
+            "url": "/reviews/4157.htm",
+            "location": "Yaroslavl"
+        },
+        {
+            "rank": "260",
+            "title": "Orenburg State Agrarian University",
+            "url": "/reviews/10913.htm",
+            "location": "Orenburg"
+        },
+        {
+            "rank": "261",
+            "title": "Ryazan State Medical University",
+            "url": "/reviews/11832.htm",
+            "location": "Ryazan"
+        },
+        {
+            "rank": "262",
+            "title": "Saint Petersburg State Institute of Technology",
+            "url": "/reviews/11839.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "263",
+            "title": "Moscow State Mining University",
+            "url": "/reviews/10952.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "264",
+            "title": "Ulyanovsk State Pedagogical University",
+            "url": "/reviews/11855.htm",
+            "location": "Ulyanovsk"
+        },
+        {
+            "rank": "265",
+            "title": "Samara State University",
+            "url": "/reviews/4082.htm",
+            "location": "Samara ..."
+        },
+        {
+            "rank": "266",
+            "title": "Kalmyk State University",
+            "url": "/reviews/10919.htm",
+            "location": "Elista"
+        },
+        {
+            "rank": "267",
+            "title": "Blagoveshchensk State Pedagogical University",
+            "url": "/reviews/11758.htm",
+            "location": "Blagoveshchensk"
+        },
+        {
+            "rank": "268",
+            "title": "Saratov State Agrarian University",
+            "url": "/reviews/10914.htm",
+            "location": "Saratov"
+        },
+        {
+            "rank": "269",
+            "title": "Kaluga State University",
+            "url": "/reviews/4004.htm",
+            "location": "Kaluga"
+        },
+        {
+            "rank": "270",
+            "title": "St. Petersburg State University of Civil Aviation",
+            "url": "/reviews/11841.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "271",
+            "title": "Chelyabinsk State Medical Academy",
+            "url": "/reviews/10879.htm",
+            "location": "Chelyabinsk"
+        },
+        {
+            "rank": "272",
+            "title": "Moscow State Institute of Culture",
+            "url": "/reviews/4037.htm",
+            "location": "Khimki"
+        },
+        {
+            "rank": "273",
+            "title": "Moscow State University of Design and Technology",
+            "url": "/reviews/10950.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "274",
+            "title": "Samara State Medical University",
+            "url": "/reviews/11835.htm",
+            "location": "Samara"
+        },
+        {
+            "rank": "275",
+            "title": "Penza State Technological University",
+            "url": "/reviews/4066.htm",
+            "location": "Penza"
+        },
+        {
+            "rank": "276",
+            "title": "Omsk State Transport University",
+            "url": "/reviews/10962.htm",
+            "location": "Omsk"
+        },
+        {
+            "rank": "277",
+            "title": "Far East State Agrarian University",
+            "url": "/reviews/10892.htm",
+            "location": "Blagoveshchensk"
+        },
+        {
+            "rank": "278",
+            "title": "Baikal State University",
+            "url": "/reviews/11768.htm",
+            "location": "Irkutsk ..."
+        },
+        {
+            "rank": "279",
+            "title": "Kazan State Agricultural University",
+            "url": "/reviews/11771.htm",
+            "location": "Kazan"
+        },
+        {
+            "rank": "280",
+            "title": "Kuban State Medical University",
+            "url": "/reviews/10932.htm",
+            "location": "Krasnodar"
+        },
+        {
+            "rank": "281",
+            "title": "South-Russian State University of Economics and Service",
+            "url": "/reviews/11863.htm",
+            "location": "Shakhty"
+        },
+        {
+            "rank": "282",
+            "title": "Volgograd State University of Architecture and Civil Engineering",
+            "url": "/reviews/4145.htm",
+            "location": "Volgograd"
+        },
+        {
+            "rank": "283",
+            "title": "Moscow State Industrial Art University",
+            "url": "/reviews/11802.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "284",
+            "title": "Kemerovo State Medical University",
+            "url": "/reviews/10925.htm",
+            "location": "Kemerovo"
+        },
+        {
+            "rank": "285",
+            "title": "Perm State Academy of Medicine",
+            "url": "/reviews/16372.htm",
+            "location": "Perm"
+        },
+        {
+            "rank": "286",
+            "title": "Bryansk State Technical University",
+            "url": "/reviews/3968.htm",
+            "location": "Brjansk"
+        },
+        {
+            "rank": "287",
+            "title": "Smolensk State University",
+            "url": "/reviews/11844.htm",
+            "location": "Smolensk"
+        },
+        {
+            "rank": "288",
+            "title": "Bryansk State University",
+            "url": "/reviews/10875.htm",
+            "location": "Brjansk"
+        },
+        {
+            "rank": "289",
+            "title": "Izhevsk State Medical Academy",
+            "url": "/reviews/10903.htm",
+            "location": "Izhevsk"
+        },
+        {
+            "rank": "290",
+            "title": "Tyva State University",
+            "url": "/reviews/11783.htm",
+            "location": "Kyzyl"
+        },
+        {
+            "rank": "291",
+            "title": "Vyatka State Humanities University",
+            "url": "/reviews/4153.htm",
+            "location": "Kirov ..."
+        },
+        {
+            "rank": "292",
+            "title": "Rostov State Medical University",
+            "url": "/reviews/11022.htm",
+            "location": "Rostov-on-Don ..."
+        },
+        {
+            "rank": "293",
+            "title": "Orel State Agrarian University",
+            "url": "/reviews/10965.htm",
+            "location": "Orel"
+        },
+        {
+            "rank": "294",
+            "title": "Sakhalin State University",
+            "url": "/reviews/4079.htm",
+            "location": "Yuzhno-Sakhalinsk"
+        },
+        {
+            "rank": "295",
+            "title": "International Banking Institute",
+            "url": "/reviews/3988.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "296",
+            "title": "Orenburg State Pedagogical University",
+            "url": "/reviews/11820.htm",
+            "location": "Orenburg"
+        },
+        {
+            "rank": "297",
+            "title": "Far Eastern State Technical Fisheries University",
+            "url": "/reviews/11761.htm",
+            "location": "Vladivostok"
+        },
+        {
+            "rank": "298",
+            "title": "Amur State University of Humanities and Pedagogy",
+            "url": "/reviews/11776.htm",
+            "location": "Komsomolsk-on-Amur"
+        },
+        {
+            "rank": "299",
+            "title": "Yelets State University",
+            "url": "/reviews/11767.htm",
+            "location": "Yelets"
+        },
+        {
+            "rank": "300",
+            "title": "Voronezh State Medical Academy",
+            "url": "/reviews/4149.htm",
+            "location": "Voronezh"
+        },
+        {
+            "rank": "301",
+            "title": "Dagestan State Technical University",
+            "url": "/reviews/10888.htm",
+            "location": "Makhachkala"
+        },
+        {
+            "rank": "302",
+            "title": "St. Petersburg State University of Physical Education",
+            "url": "/reviews/16375.htm",
+            "location": "St. Petersburg"
+        },
+        {
+            "rank": "303",
+            "title": "Altai State Academy of Education",
+            "url": "/reviews/11757.htm",
+            "location": "Biisk"
+        },
+        {
+            "rank": "304",
+            "title": "Buryat State Academy of Agriculture",
+            "url": "/reviews/9411.htm",
+            "location": "Ulan-Ude"
+        },
+        {
+            "rank": "305",
+            "title": "Volga Region State Academy of Physical Culture, Sport and Tourism",
+            "url": "/reviews/16377.htm",
+            "location": "Kazan"
+        },
+        {
+            "rank": "306",
+            "title": "Michurinsk State Agrarian University",
+            "url": "/reviews/10942.htm",
+            "location": "Michurinsk"
+        },
+        {
+            "rank": "307",
+            "title": "Moscow Metropolitan Governance University",
+            "url": "/reviews/11791.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "308",
+            "title": "Voronezh State University of Engineering Technology",
+            "url": "/reviews/4147.htm",
+            "location": "Voronezh"
+        },
+        {
+            "rank": "309",
+            "title": "Lipetsk State Pedagogical University",
+            "url": "/reviews/11784.htm",
+            "location": "Lipetsk"
+        },
+        {
+            "rank": "310",
+            "title": "Tver State Medical University",
+            "url": "/reviews/16376.htm",
+            "location": "Tver"
+        },
+        {
+            "rank": "311",
+            "title": "Yaroslavl State Medical University",
+            "url": "/reviews/10908.htm",
+            "location": "Yaroslavl"
+        },
+        {
+            "rank": "312",
+            "title": "Zabaikalsky State Humanitarian and Pedagogical University",
+            "url": "/reviews/11862.htm",
+            "location": "Chita"
+        },
+        {
+            "rank": "313",
+            "title": "Vologda State Dairy Farming Academy",
+            "url": "/reviews/16367.htm",
+            "location": "Vologda"
+        },
+        {
+            "rank": "314",
+            "title": "Kirov State Medical University",
+            "url": "/reviews/10927.htm",
+            "location": "Kirov"
+        },
+        {
+            "rank": "315",
+            "title": "Rostov State Building University",
+            "url": "/reviews/11830.htm",
+            "location": "Rostov-on-Don"
+        },
+        {
+            "rank": "316",
+            "title": "Maikop State Technological University",
+            "url": "/reviews/11786.htm",
+            "location": "Maykop"
+        },
+        {
+            "rank": "317",
+            "title": "Moscow State Academy of Physical Culture",
+            "url": "/reviews/16371.htm",
+            "location": "Lyubertsy"
+        },
+        {
+            "rank": "318",
+            "title": "Siberian State University of Physical Culture and Sports",
+            "url": "/reviews/11819.htm",
+            "location": "Omsk"
+        },
+        {
+            "rank": "319",
+            "title": "Moscow State University of Environmental Engineering",
+            "url": "/reviews/4040.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "320",
+            "title": "Penza State University of Architecture and Construction",
+            "url": "/reviews/11823.htm",
+            "location": "Penza"
+        },
+        {
+            "rank": "321",
+            "title": "Pacific State Medical University",
+            "url": "/reviews/11760.htm",
+            "location": "Vladivostok"
+        },
+        {
+            "rank": "322",
+            "title": "Kazan State Conservatory",
+            "url": "/reviews/10921.htm",
+            "location": "Kazan"
+        },
+        {
+            "rank": "323",
+            "title": "Nayanova University",
+            "url": "/reviews/4048.htm",
+            "location": "Samara"
+        },
+        {
+            "rank": "324",
+            "title": "Bryansk State Agrarian University",
+            "url": "/reviews/10874.htm",
+            "location": "Brjansk"
+        },
+        {
+            "rank": "325",
+            "title": "Ivanovo State Polytechnic University",
+            "url": "/reviews/10901.htm",
+            "location": "Ivanovo"
+        },
+        {
+            "rank": "326",
+            "title": "Irkutsk State Medical University",
+            "url": "/reviews/10899.htm",
+            "location": "Irkutsk"
+        },
+        {
+            "rank": "327",
+            "title": "Murmansk Arctic State University",
+            "url": "/reviews/11811.htm",
+            "location": "Murmansk"
+        },
+        {
+            "rank": "328",
+            "title": "Moscow State Academy of Water Transport",
+            "url": "/reviews/16381.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "329",
+            "title": "Ryazan State Agrotechnological University",
+            "url": "/reviews/16366.htm",
+            "location": "Ryazan"
+        },
+        {
+            "rank": "330",
+            "title": "Samara Academy of Humanities",
+            "url": "/reviews/9619.htm",
+            "location": "Samara ..."
+        },
+        {
+            "rank": "331",
+            "title": "The Rostov State Conservatoire",
+            "url": "/reviews/9538.htm",
+            "location": "Rostov-on-Don"
+        },
+        {
+            "rank": "332",
+            "title": "Northern Ossetian State Academy of Medicine",
+            "url": "/reviews/10959.htm",
+            "location": "Vladikavkaz ..."
+        },
+        {
+            "rank": "333",
+            "title": "University of Humanities",
+            "url": "/reviews/11765.htm",
+            "location": "Yekaterinburg"
+        },
+        {
+            "rank": "334",
+            "title": "Izhevsk State Agricultural Academy",
+            "url": "/reviews/10902.htm",
+            "location": "Izhevsk"
+        },
+        {
+            "rank": "335",
+            "title": "Ivanovo State Medical Academy",
+            "url": "/reviews/3995.htm",
+            "location": "Ivanovo"
+        },
+        {
+            "rank": "336",
+            "title": "Don State University of Agriculture",
+            "url": "/reviews/10889.htm",
+            "location": "Persianovsky"
+        },
+        {
+            "rank": "337",
+            "title": "Tambov State Musical-Pedagogical Institute named after S.V. Rachmaninov",
+            "url": "/reviews/9624.htm",
+            "location": "Tambov"
+        },
+        {
+            "rank": "338",
+            "title": "Lipeck State Technical University",
+            "url": "/reviews/4019.htm",
+            "location": "Lipetsk"
+        },
+        {
+            "rank": "339",
+            "title": "Bashkir State Medical University",
+            "url": "/reviews/10870.htm",
+            "location": "Ufa"
+        },
+        {
+            "rank": "340",
+            "title": "Tyumen State Agricultural Academy",
+            "url": "/reviews/4121.htm",
+            "location": "Tyumen"
+        },
+        {
+            "rank": "341",
+            "title": "Angarsk State Technical University",
+            "url": "/reviews/10861.htm",
+            "location": "Angarsk"
+        },
+        {
+            "rank": "342",
+            "title": "Amur State Medical Academy",
+            "url": "/reviews/10860.htm",
+            "location": "Blagoveshchensk"
+        },
+        {
+            "rank": "343",
+            "title": "Chita State Academy of Medicine",
+            "url": "/reviews/10881.htm",
+            "location": "Chita"
+        },
+        {
+            "rank": "344",
+            "title": "Yaroslavl State Academy of Agriculture",
+            "url": "/reviews/10907.htm",
+            "location": "Yaroslavl"
+        },
+        {
+            "rank": "345",
+            "title": "Samara State University of Architecture and Civil Engineering",
+            "url": "/reviews/16379.htm",
+            "location": "Samara"
+        },
+        {
+            "rank": "346",
+            "title": "Chechen State University",
+            "url": "/reviews/10878.htm",
+            "location": "Grozny"
+        },
+        {
+            "rank": "347",
+            "title": "Kamchatka State Technical University",
+            "url": "/reviews/10920.htm",
+            "location": "Petropavlovsk-Kamchatsky"
+        },
+        {
+            "rank": "348",
+            "title": "North Caucasian Institute of Mining and Metallurgy",
+            "url": "/reviews/11762.htm",
+            "location": "Vladikavkaz"
+        },
+        {
+            "rank": "349",
+            "title": "Kazan State University of Culture and Arts",
+            "url": "/reviews/11772.htm",
+            "location": "Kazan"
+        },
+        {
+            "rank": "350",
+            "title": "Kuban State University of Physical Culture, Sport and Tourism",
+            "url": "/reviews/11778.htm",
+            "location": "Krasnodar"
+        },
+        {
+            "rank": "351",
+            "title": "Kamchatka State University",
+            "url": "/reviews/11826.htm",
+            "location": "Petropavlovsk-Kamchatsky"
+        },
+        {
+            "rank": "352",
+            "title": "Petrozavodsk State Conservatory",
+            "url": "/reviews/9418.htm",
+            "location": "Petrozavodsk"
+        },
+        {
+            "rank": "353",
+            "title": "Kabardino-Balkarian State Agricultural University",
+            "url": "/reviews/10909.htm",
+            "location": "Nalchik"
+        },
+        {
+            "rank": "354",
+            "title": "Northeastern State University",
+            "url": "/reviews/11785.htm",
+            "location": "Magadan"
+        },
+        {
+            "rank": "355",
+            "title": "Ivanovo State Academy of Agriculture",
+            "url": "/reviews/10900.htm",
+            "location": "Ivanovo"
+        },
+        {
+            "rank": "356",
+            "title": "Astrakhan State Medical Academy",
+            "url": "/reviews/10863.htm",
+            "location": "Astrakhan"
+        },
+        {
+            "rank": "357",
+            "title": "Moscow University Touro",
+            "url": "/reviews/4045.htm",
+            "location": "Moscow"
+        },
+        {
+            "rank": "358",
+            "title": "Dagestan State Medical University",
+            "url": "/reviews/10886.htm",
+            "location": "Makhachkala"
+        },
+        {
+            "rank": "359",
+            "title": "Tver State Technical University",
+            "url": "/reviews/11848.htm",
+            "location": "Tver"
+        },
+        {
+            "rank": "360",
+            "title": "Rybinsk State Aviation Technical University",
+            "url": "/reviews/4078.htm",
+            "location": "Rybinsk"
+        },
+        {
+            "rank": "361",
+            "title": "Shuya State Pedagogical University",
+            "url": "/reviews/11864.htm",
+            "location": "Shuya"
+        },
+        {
+            "rank": "362",
+            "title": "Vladimir State University for the Humanities",
+            "url": "/reviews/11763.htm",
+            "location": "Vladimir"
+        },
+        {
+            "rank": "363",
+            "title": "Ural State Conservatory",
+            "url": "/reviews/4134.htm",
+            "location": "Yekaterinburg"
+        },
+        {
+            "rank": "364",
+            "title": "Tatar State University of Humanities and Education",
+            "url": "/reviews/11773.htm",
+            "location": "Kazan"
+        },
+        {
+            "rank": "365",
+            "title": "Chelyabinsk State Agroengineering Academy",
+            "url": "/reviews/3972.htm",
+            "location": "Chelyabinsk"
+        },
+        {
+            "rank": "366",
+            "title": "Gorsky State Agrarian University",
+            "url": "/reviews/10895.htm",
+            "location": "Vladikavkaz"
+        },
+        {
+            "rank": "367",
+            "title": "Pyatigorsk State Pharmaceutical Academy",
+            "url": "/reviews/16373.htm",
+            "location": "Pyatigorsk"
+        },
+        {
+            "rank": "368",
+            "title": "Dagestan State Pedagogical University",
+            "url": "/reviews/10887.htm",
+            "location": "Makhachkala"
+        },
+        {
+            "rank": "369",
+            "title": "International University of Fundamental Studies, St. Petersburg",
+            "url": "/reviews/3991.htm",
+            "location": "Saint Petersburg ..."
+        },
+        {
+            "rank": "370",
+            "title": "Magnitogorsk State Conservatory",
+            "url": "/reviews/10936.htm",
+            "location": "Magnitogorsk"
+        },
+        {
+            "rank": "371",
+            "title": "Yakutsk State Academy of Agriculture",
+            "url": "/reviews/10905.htm",
+            "location": "Yakutsk"
+        },
+        {
+            "rank": "372",
+            "title": "Russian State Institute of Performing Arts",
+            "url": "/reviews/16369.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "373",
+            "title": "Pushchino State University",
+            "url": "/reviews/11828.htm",
+            "location": "Pushchino"
+        },
+        {
+            "rank": "374",
+            "title": "Nizhny Novgorod State Agricultural Academy",
+            "url": "/reviews/16365.htm",
+            "location": "Nighny Novgorod"
+        },
+        {
+            "rank": "375",
+            "title": "Nevsky Institute of Language and Culture",
+            "url": "/reviews/4049.htm",
+            "location": "Saint Petersburg"
+        },
+        {
+            "rank": "376",
+            "title": "Institute of International Business Education",
+            "url": "/reviews/9534.htm",
+            "location": "Moscow ..."
+        },
+        {
+            "rank": "377",
+            "title": "Astrakhan State Conservatory",
+            "url": "/reviews/10864.htm",
+            "location": "Astrakhan"
+        },
+        {
+            "rank": "378",
+            "title": "Smolensk University for Humanities",
+            "url": "/reviews/4092.htm",
+            "location": "Smolensk"
+        },
+        {
+            "rank": "379",
+            "title": "Tchaikovsky State Institute of Physical Culture",
+            "url": "/reviews/10877.htm",
+            "location": "Chaykovsky"
+        },
+        {
+            "rank": "380",
+            "title": "Vladikavkaz Institute of Economics, Management and Law",
+            "url": "/reviews/4047.htm",
+            "location": "Vladikavkaz"
+        },
+        {
+            "rank": "381",
+            "title": "Penza State Pedagogical University",
+            "url": "/reviews/11821.htm",
+            "location": "Penza"
+        },
+        {
+            "rank": "382",
+            "title": "Ingush State University",
+            "url": "/reviews/10897.htm",
+            "location": "Ordzhonikidzevskaya"
+        },
+        {
+            "rank": "383",
+            "title": "Penza State Agricultural Academy",
+            "url": "/reviews/10967.htm",
+            "location": "Penza"
+        },
+        {
+            "rank": "384",
+            "title": "Chuvash State Agricultural Academy",
+            "url": "/reviews/10883.htm",
+            "location": "Cheboksary"
+        },
+        {
+            "rank": "Un",
+            "title": "",
+            "url": "/about/add.htm",
+            "location": ""
+        }
+    ]
+}

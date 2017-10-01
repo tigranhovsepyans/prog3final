@@ -16,6 +16,9 @@ function scrapping(){
             },
             url: {
                 attr: "href",
+                convert: function(x){
+                    return "http://www.4icu.org/Europe" + x
+                }
             },
         }
     }

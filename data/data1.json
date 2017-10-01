@@ -1,0 +1,180 @@
+{
+  "countries": [
+    {
+      "title": "Albania",
+      "url": "http://www.4icu.org/Europe/al/index.html"
+    },
+    {
+      "title": "Andorra",
+      "url": "http://www.4icu.org/Europe/ad/"
+    },
+    {
+      "title": "Austria",
+      "url": "http://www.4icu.org/Europe/at/index.html"
+    },
+    {
+      "title": "Belarus",
+      "url": "http://www.4icu.org/Europe/by/index.html"
+    },
+    {
+      "title": "Belgium",
+      "url": "http://www.4icu.org/Europe/be/index.html"
+    },
+    {
+      "title": "Bosnia and Herzegovina",
+      "url": "http://www.4icu.org/Europe/ba/index.html"
+    },
+    {
+      "title": "Bulgaria",
+      "url": "http://www.4icu.org/Europe/bg/index.html"
+    },
+    {
+      "title": "Croatia",
+      "url": "http://www.4icu.org/Europe/hr/index.html"
+    },
+    {
+      "title": "Czech Republic",
+      "url": "http://www.4icu.org/Europe/cz/index.html"
+    },
+    {
+      "title": "Denmark",
+      "url": "http://www.4icu.org/Europe/dk/index.html"
+    },
+    {
+      "title": "Estonia",
+      "url": "http://www.4icu.org/Europe/ee/index.html"
+    },
+    {
+      "title": "Finland",
+      "url": "http://www.4icu.org/Europe/fi/index.html"
+    },
+    {
+      "title": "France",
+      "url": "http://www.4icu.org/Europe/fr/index.html"
+    },
+    {
+      "title": "Germany",
+      "url": "http://www.4icu.org/Europe/de/index.html"
+    },
+    {
+      "title": "Greece",
+      "url": "http://www.4icu.org/Europe/gr/index.html"
+    },
+    {
+      "title": "Hungary",
+      "url": "http://www.4icu.org/Europe/hu/index.html"
+    },
+    {
+      "title": "Iceland",
+      "url": "http://www.4icu.org/Europe/is/index.html"
+    },
+    {
+      "title": "Ireland",
+      "url": "http://www.4icu.org/Europe/ie/index.html"
+    },
+    {
+      "title": "Italy",
+      "url": "http://www.4icu.org/Europe/it/index.html"
+    },
+    {
+      "title": "Latvia",
+      "url": "http://www.4icu.org/Europe/lv/index.html"
+    },
+    {
+      "title": "Liechtenstein",
+      "url": "http://www.4icu.org/Europe/li/"
+    },
+    {
+      "title": "Lithuania",
+      "url": "http://www.4icu.org/Europe/lt/index.html"
+    },
+    {
+      "title": "Luxembourg",
+      "url": "http://www.4icu.org/Europe/lu/"
+    },
+    {
+      "title": "Macedonia",
+      "url": "http://www.4icu.org/Europe/mk/"
+    },
+    {
+      "title": "Malta",
+      "url": "http://www.4icu.org/Europe/mt/"
+    },
+    {
+      "title": "Moldova",
+      "url": "http://www.4icu.org/Europe/md/index.html"
+    },
+    {
+      "title": "Monaco",
+      "url": "http://www.4icu.org/Europe/mc/"
+    },
+    {
+      "title": "Montenegro",
+      "url": "http://www.4icu.org/Europe/me/"
+    },
+    {
+      "title": "Netherlands",
+      "url": "http://www.4icu.org/Europe/nl/index.html"
+    },
+    {
+      "title": "Norway",
+      "url": "http://www.4icu.org/Europe/no/index.html"
+    },
+    {
+      "title": "Poland",
+      "url": "http://www.4icu.org/Europe/pl/index.html"
+    },
+    {
+      "title": "Portugal",
+      "url": "http://www.4icu.org/Europe/pt/index.html"
+    },
+    {
+      "title": "Romania",
+      "url": "http://www.4icu.org/Europe/ro/index.html"
+    },
+    {
+      "title": "Russia",
+      "url": "http://www.4icu.org/Europe/ru/index.html"
+    },
+    {
+      "title": "San Marino",
+      "url": "http://www.4icu.org/Europe/sm/"
+    },
+    {
+      "title": "Serbia",
+      "url": "http://www.4icu.org/Europe/rs/index.html"
+    },
+    {
+      "title": "Slovakia",
+      "url": "http://www.4icu.org/Europe/sk/index.html"
+    },
+    {
+      "title": "Slovenia",
+      "url": "http://www.4icu.org/Europe/si/index.html"
+    },
+    {
+      "title": "Spain",
+      "url": "http://www.4icu.org/Europe/es/index.html"
+    },
+    {
+      "title": "Sweden",
+      "url": "http://www.4icu.org/Europe/se/index.html"
+    },
+    {
+      "title": "Switzerland",
+      "url": "http://www.4icu.org/Europe/ch/index.html"
+    },
+    {
+      "title": "Ukraine",
+      "url": "http://www.4icu.org/Europe/ua/index.html"
+    },
+    {
+      "title": "United Kingdom",
+      "url": "http://www.4icu.org/Europe/gb/index.html"
+    },
+    {
+      "title": "Vatican City State",
+      "url": "http://www.4icu.org/Europe/va/"
+    }
+  ]
+}
