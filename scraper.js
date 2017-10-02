@@ -18,7 +18,7 @@ scrapeIt("http://www.4icu.org/ru/", {
     }
 }).then(function (page) {
     console.log(page);
-    jsonfile.writeFile(file, page, {section: 2 }, function (err) {
+    jsonfile.writeFile(file, page, {spaces: 2, flag: 'a' }, function (err) {
         console.error(err);
 
     })

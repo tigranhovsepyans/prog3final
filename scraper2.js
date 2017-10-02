@@ -22,7 +22,7 @@ scrapeIt("http://www.4icu.org/fr/", {
     
 }).then(page => {
     console.log(page);
-    jsonfile.writeFile(file, page, {section: 2 }, function (err) {
+    jsonfile.writeFile(file, page, {spaces: 2 }, function (err) {
         console.error(err);
 
     })
