@@ -1,36 +1,59 @@
 
 google.charts.load('45', { packages: ['corechart', 'table', 'geochart'] });
+ google.charts.load('current', {
+       'packages': ['geochart'],
+       'mapsApiKey': 'AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY'
+     });
 
 google.charts.setOnLoadCallback(drawTable);
+google.charts.setOnLoadCallback(drawMarkersmap);
 
+function drawMarkersmap(){
+    $.ajax({
+        url: "/countries",
+        dataType: "json",
+        success: function(jsonData){
+            var data = new google.visualization.DataTable()
+            data.addColumn('string', 'title');
+            data.addColumn('string', 'url');
 
+            for (var i = 0; i < jsonData.length; i++) {
+                data.addRow([
+                    jsonData[i].title,
+                    jsonData[i].url,
+                ]);
+            }
+        
 
-/*function drawMarkersMap() {
-      var data = google.visualization.arrayToDataTable([
-        ['City',   'Population', 'Area'],
-        ['Rome',      2761477,    1285.31],
-        ['Milan',     1324110,    181.76],
-        ['Naples',    959574,     117.27],
-        ['Turin',     907563,     130.17],
-        ['Palermo',   655875,     158.9],
-        ['Genoa',     607906,     243.60],
-        ['Bologna',   380181,     140.7],
-        ['Florence',  371282,     102.41],
-        ['Fiumicino', 67370,      213.44],
-        ['Anzio',     52192,      43.43],
-        ['Ciampino',  38262,      11]
-      ]);
+        var options = {
+            region: '155',
+            displayMode: 'markers',
+            colorAxis: {colors: ['green', 'blue']}
+          };
 
-      var options = {
-        region: 'IT',
+          var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+          chart.draw(data, options);
+        }
+        
+    });
+    /*var data = google.visualization.arrayToDataTable([
+            ['City', 'Population', 'Area'],
+            ['Moscow ...',  2761477,       1285.31],
+
+        ]);
+
+    var options = {
+        region: 'RU',
         displayMode: 'markers',
         colorAxis: {colors: ['green', 'blue']}
       };
 
       var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
       chart.draw(data, options);
-    };
 */
+}
+
+
 
 
 function drawTable() {
