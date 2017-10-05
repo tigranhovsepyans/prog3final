@@ -20,7 +20,7 @@ function drawMarkersmap(){
             for (var i = 0; i < jsonData.length; i++) {
                 data.addRow([
                     jsonData[i].title,
-                    jsonData[i].url,
+                    jsonData[i].title,
                 ]);
             }
         
